@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AFFC05BD-6FC0-4A95-90F3-495AC6CE578C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE9359DE-4F92-444E-A5E5-BB40648C6A2F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day6/TableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE9359DE-4F92-444E-A5E5-BB40648C6A2F - 6648cef42635a960"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Day6.MyResponse&gt;) -&gt; () in Day6.TableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Day6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab8/Desktop/Day6/Day6/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "DE9359DE-4F92-444E-A5E5-BB40648C6A2F - 6648cef42635a943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Day6.MyResponse&gt;) -&gt; () in Day6.TableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Day6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab8/Desktop/Day6/Day6/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "DE9359DE-4F92-444E-A5E5-BB40648C6A2F - 6648cef42635a943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Day6.MyResponse&gt;) -&gt; () in Day6.TableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Day6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab8/Desktop/Day6/Day6/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "DE9359DE-4F92-444E-A5E5-BB40648C6A2F - 6648cef42635a943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Day6.MyResponse&gt;) -&gt; () in Day6.TableViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Day6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab8/Desktop/Day6/Day6/TableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
